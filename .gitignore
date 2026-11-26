@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+dev-dist/
+dist-ssr/
+
+# Environment variables (keep sensitive keys private)
+.env
+.env.local
+.env.*.local
+
+# Editor and OS files
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
