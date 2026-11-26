@@ -1,0 +1,5 @@
+{
+  "name": "AutoAuction",
+  "description": "Online auction terminal for bank foreclosures, real estate, vehicles, and electronics.",
+  "requestFramePermissions": []
+}
